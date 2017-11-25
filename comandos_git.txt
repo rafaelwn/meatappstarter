@@ -1,0 +1,2 @@
+rafael@rafael-Aspire-E5-573G:~/RepositorioGit/MeatAppStarter/meat-app-starter$ git remote add upstream https://github.com/rafaelwn/meatappstarter.git
+rafael@rafael-Aspire-E5-573G:~/RepositorioGit/MeatAppStarter/meat-app-starter$ git fetch upstream
